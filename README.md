@@ -1,12 +1,4 @@
-# TODO Application
-<style>
-    h3 {
-        margin-bottom: 0px;
-    }
-    p {
-        padding-left: 20px;
-    }
-</style>
+# Task Manager
 
 <h4>Table of Contents</h4>
 <ol>
@@ -67,12 +59,15 @@ Here's a list of the available API endpoints with the base URL `http://localhost
 <hr>
 
 <h3 id="system">System Overview</h3>
+
+
     - Model-View-Controller Architecture.
     - The database context is defined within the db object in db.js
     - The model layer is controlled using Sequelize ORM and is accessible in the models directory.
     - The view layer is created using React and is found within the view directory.
     - The controller layer contains classes that defines data objects that utilize Sequelize ORM methods and are passed to their respective routes within routes.js.
     - The API is all pulled together within index.js and served using Express.s
+
 
 <hr>
 

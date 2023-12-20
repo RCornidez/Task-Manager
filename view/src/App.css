@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  height:100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  border-color: #334155;
+}
+
+#app {
+  border: solid #334155 4px;
+  background-color: #f1f5f9;
+  border-radius: 25px;
+  padding: 10px;
+  margin-top: 50px;
+
+}
+
+#chart-container {
+  border: none;
+  height: auto;
+  width: 400px;
+  text-align: center;
+  margin-top: 50px;
+}

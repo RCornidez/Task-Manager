@@ -1,0 +1,22 @@
+.taskitem {
+    border: none;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.taskitem-title {
+    border: none;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

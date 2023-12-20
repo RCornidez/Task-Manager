@@ -25,8 +25,10 @@ Run the code
 npm run dev
 ```
 
+Access the Application
+<a href=" http://localhost:5173/">http://localhost:5173/</a>
 
-Access API endpoints via browser or Postman
+Access API endpoints via browser or Postman for testing
 
 <a href="http://localhost:3000/api/">http://localhost:3000/api/</a>
 
